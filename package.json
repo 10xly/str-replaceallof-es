@@ -1,0 +1,32 @@
+{
+  "name": "str-replaceallof-es",
+  "version": "1.0.0",
+  "description": "replaceAllOf",
+  "homepage": "https://github.com/10xly/str-replaceallof-es#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/str-replaceallof-es/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/str-replaceallof-es.git"
+  },
+  "license": "MIT",
+  "author": "Tj",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "@positive-numbers/one-hundred": "^5.0.0",
+    "lolite.__private.multiplyfallback": "^1.1.16",
+    "phantomjs-polyfill-string-includes": "^1.0.0",
+    "string-intrinsic-ai": "^1.0.1",
+    "times-loop": "^3.0.0",
+    "uncurried-intrinsics": "^1.0.3",
+    "uncurry-x": "^1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^11.7.5"
+  }
+}
